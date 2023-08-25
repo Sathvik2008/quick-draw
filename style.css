@@ -1,0 +1,27 @@
+body{
+background-color: orange;
+}
+#score{
+font-size: 30;
+font-weight:bolder;
+margin-left: 10px;
+}
+#timer{
+font-size: 30;
+font-weight: bolder;
+float: right;
+margin-right: 10px;
+}
+#drawthis{
+color: yellow;
+font-weight: bold;
+font-size: 25;
+}
+#guess{
+font-size: 20;
+font-weight: bold;
+}
+#confidence{
+font-size: 20;
+font-weight: bold;
+}
